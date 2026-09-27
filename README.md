@@ -1,2 +1,0 @@
-# .github
-retrokidworks organization profile
