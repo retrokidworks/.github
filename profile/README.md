@@ -10,3 +10,6 @@ A menu bar app that turns the display backlight all the way down while your Mac 
 ```sh
 brew install --cask retrokidworks/tap/allnighter
 ```
+
+**[LRC Tap](https://lrc-tap.retrokidworks.com)** — sync lyrics to audio and export `.lrc`, entirely in your browser.
+Tap along line by line, retake a missed line with Backspace, drag markers on the waveform. Nothing is uploaded.
